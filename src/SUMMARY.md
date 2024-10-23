@@ -5,8 +5,19 @@
 # User guide
 
 - [Installation](users/installation.md)
-- [Chapter 2](users/chapter_2.md)
+- [Searching]()
+- [Install queue]()
+- [Downloading PMPs]()
+- [Blocking tags/users]()
+- [Reporting]()
+- [Tips and tricks]()
 
 # Creator guide
 
-- [Chapter 1](creator/chapter_1.md)
+- [Quick start]()
+    - [Creating your first mod]()
+    - [Uploading an update]()
+- [How Heliosphere works]()
+- [Variants versus versions]()
+- [Dependencies]()
+- [Extra files]()
