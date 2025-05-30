@@ -47,7 +47,7 @@ You may add as many of these as you like.
 
 8. ***Order.*** This option lets you choose how your search results are sorted, in combination with the next option on this list, ***Direction.***
 - *Created at* will sort mods by the date they were created.
-- *Downloaded at* (don't know with this one yet)
+- *Downloaded at* will sort mods by when you downloaded them.
 - *Downloads (all time)* will sort mods by their **total** number of downloads.
 - *Downloads (average)* will sort mods by their **average** number of downloads.
 - *Similarity* will sort mods by how similar they are to your initial search query.
