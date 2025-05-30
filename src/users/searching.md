@@ -65,7 +65,7 @@ other items added by advanced search.
    option, sort the results from lowest to highest; *Descending* will sort the
    results from highest to lowest.
 
-   If ***Order*** relies on a date, such as "Created at" or "Updated at",
+   If *Order* relies on a date, such as "Created at" or "Updated at",
    *Ascending* will sort from oldest to newest, while *Descending* will sort
    from newest to oldest.
 10. **Compatibility**: Mods that were uploaded or last updated prior to June 28,
