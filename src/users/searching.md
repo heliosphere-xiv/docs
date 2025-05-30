@@ -7,7 +7,7 @@ Heliosphere's search function has two primary modes: ***Simple*** and ***Advance
 The simple search will go through titles and descriptions both, and will pull up any mods with matching terms or words.
 To use this, simply put your desired search terms in the query box and hit "Search."
 
-(image)
+![simple-search-image](images/searching/simplesearch.png)
 
 ## Advanced Search
 
