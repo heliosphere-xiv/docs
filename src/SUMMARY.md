@@ -5,7 +5,7 @@
 # User guide
 
 - [Installation](users/installation.md)
-- [Searching]()
+- [Searching](users/searching.md)
 - [Install queue]()
 - [Downloading PMPs]()
 - [Blocking tags/users]()
