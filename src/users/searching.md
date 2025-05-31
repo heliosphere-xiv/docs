@@ -70,7 +70,7 @@ other items added by advanced search.
    from newest to oldest.
 10. **Compatibility**: Mods that were uploaded or last updated prior to June 28,
     2024 will have preceded the release of *Dawntrail*, the fifth major
-    expansion to Final Fantasy XIV since A Realm Reborn.
+    expansion to *Final Fantasy XIV* since *A Realm Reborn*.
 
     Because *Dawntrail* made major graphical changes to the engine, any mods
     that predate the release of *Dawntrail* will likely not function correctly
