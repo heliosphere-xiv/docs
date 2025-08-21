@@ -14,7 +14,7 @@ To use this, simply put your desired search terms in the query box and click
 Note that titles are weighted most heavily, then descriptions, then taglines,
 then permissions.
 
-![simple-search-image](images/searching/simplesearch.png)
+![simple-search-image](images/searching/simplesearch.avif)
 
 ## Advanced search
 
@@ -24,10 +24,10 @@ Clicking the "Advanced" slider at the top of the screen or the text that says
 The Query box retains its function from simple search, but there are a number of
 other items added by advanced search.
 
-![advanced-search-image](images/searching/advsearch_1.png)
+![advanced-search-image](images/searching/advsearch_1.avif)
 
 
-![advanced-search-image-2](images/searching/advsearch_2.png)
+![advanced-search-image-2](images/searching/advsearch_2.avif)
 
 1. **Author**: If you know a specific author's name and want to limit your
    search to only the mods they have made, you can type either their full or
@@ -78,7 +78,7 @@ other items added by advanced search.
     with a warning sign on their thumbnails, both on the main page and in search
     results.
 
-    ![advanced-search-image-3](images/searching/advsearch_predtmod.png)
+    ![advanced-search-image-3](images/searching/advsearch_predtmod.avif)
 
     Selecting "Any" will include these mods in your search results, while
     selecting "Dawntrail" will exclude them.
