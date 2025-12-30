@@ -1,7 +1,7 @@
 # How Heliosphere works
 
 Heliosphere works differently than other mod websites. Like other mod websites,
-it lets you, as a creator, upload your mods in two formats: TTMP and PMP.
+it lets you, as a creator, upload your mods in two formats: PMP and TTMP.
 However, unlike other mod websites, Heliosphere will then process your uploaded
 mod.
 
