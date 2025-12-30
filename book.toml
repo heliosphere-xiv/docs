@@ -6,7 +6,6 @@ src = "src"
 title = "Heliosphere Documentation"
 
 [output.html]
-default-theme = "ayu"
 preferred-dark-theme = "ayu"
 cname = "docs.heliosphere.app"
 git-repository-url = "https://github.com/heliosphere-xiv/docs"
