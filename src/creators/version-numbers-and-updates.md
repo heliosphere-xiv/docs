@@ -45,7 +45,8 @@ files, it's important for determining which files to have users download when
 they install your mod.
 
 > There is an experimental way to do *delta updates*, which only require you to
-upload new or changed files. If you would like to help test those, let me know
-in our Discord.
+upload new or changed files. If you would like to help test those, ask about it
+on [our forums][forums].
 
 [semver]: https://semver.org/
+[forums]: https://forums.heliosphere.app/
