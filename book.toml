@@ -1,7 +1,6 @@
 [book]
 authors = ["Anna"]
 language = "en"
-multilingual = false
 src = "src"
 title = "Heliosphere Documentation"
 
@@ -9,5 +8,4 @@ title = "Heliosphere Documentation"
 preferred-dark-theme = "ayu"
 cname = "docs.heliosphere.app"
 git-repository-url = "https://github.com/heliosphere-xiv/docs"
-git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/heliosphere-xiv/docs/edit/main/{path}"

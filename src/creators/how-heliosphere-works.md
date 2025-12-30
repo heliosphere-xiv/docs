@@ -14,6 +14,7 @@ as a PMP on the website or directly into Penumbra via the in-game plugin. Both
 methods use the same behind-the-scenes logic: all the files are individually
 downloaded and decompressed and then reconstructed into one coherent mod pack.
 
+> [!NOTE]
 > Heliosphere will never offer TTMP downloads. However, most people want TTMPs
 so they can import into TexTools. TexTools has added PMP support in their
 Dawntrail release, which means you are able to import Heliosphere mods into

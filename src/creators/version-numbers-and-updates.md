@@ -10,6 +10,7 @@ always show up with version numbers like x.y.z (e.g. 1.2.3, 2.0.0).
 while creating it, either in Penumbra or TexTools. Heliosphere just reads the
 version number out of your mod.
 
+> [!TIP]
 > Heliosphere is lenient with your uploads, so if you set the version of your
 mod pack to 1 or 2.0 or even 1.0.0.0, Heliosphere will probably be able to
 convert it into an equivalent compatible version number.
@@ -44,6 +45,7 @@ mod pack for each update. Even though it will screen out all the unchanged
 files, it's important for determining which files to have users download when
 they install your mod.
 
+> [!NOTE]
 > There is an experimental way to do *delta updates*, which only require you to
 upload new or changed files. If you would like to help test those, ask about it
 on [our forums][forums].
